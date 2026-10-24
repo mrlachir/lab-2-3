@@ -1,0 +1,3 @@
+# Copy to dao-override.properties to override the classpath configuration.
+dao.target=daoApi
+
